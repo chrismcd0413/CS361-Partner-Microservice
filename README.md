@@ -3,6 +3,7 @@
 To start: word_service.py needs to be running. 
 
 main.py contains an example of how to use the service: 
+
     `while True:
         word_length = input('Enter 5, 6, or 7 to get a random word of that length')
         with open('word_service.txt', 'r+') as word_pipe:
@@ -18,3 +19,5 @@ Here, you'll enter whether you want a 5, 6, or 7 letter word. It will write the 
 and then it will randomly grab a word from one of the 3 word banks and put it back in the file. 
 
 Sequence Diagram:
+
+![Sequence diagram](https://github.com/chrismcd0413/CS361-Partner-Microservice/assets/40510393/3e90ab6e-aade-4120-ade1-36280233da77)
