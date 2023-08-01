@@ -20,4 +20,4 @@ and then it will randomly grab a word from one of the 3 word banks and put it ba
 
 Sequence Diagram:
 
-![Sequence diagram](https://github.com/chrismcd0413/CS361-Partner-Microservice/assets/40510393/3e90ab6e-aade-4120-ade1-36280233da77)
+![Sequence diagram](https://github.com/chrismcd0413/CS361-Partner-Microservice/assets/40510393/2462cc4f-140f-4348-a644-6c21cefc8227)
